@@ -6,7 +6,8 @@
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-responsive-carousel": "^3.2.23",
-    "next": "^13.0.0"
+    "next": "^13.0.0",
+    "next/image": "^13.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
